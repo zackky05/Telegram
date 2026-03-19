@@ -117,6 +117,8 @@ body {
 }
 
 .badge {
+  height:20px;
+  width:20px;
   border-radius:50%;
   background:#775ac6;
   padding:3px 7px;
